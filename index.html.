@@ -1,14 +1,100 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset= "utf-8">
-<title> Project HARRYPOTTER-Theories</title>
-</head>
-<body>
+    <head>
+        <meta charset="utf-8">
+        <title>Great Books for 11-13 years old</title>
+   <style>
+       
+       
+      body{
+          background:rgb(235, 235, 235);
+      margin :15px;
+          
+      }
+       img {border:3px ridge rgb(15, 12, 15);
+       }
+       h1{
+           font:bold 26px "Agency FB";
+           position:relative;
+           left:89px;
+           font: bold 35px "Agency FB";
+       }
+       h2{
+           font:bold 23px "Agency FB";
+       position:relative;
+           left:122px;
+           font: bold 27px "Agency FB";
+       
+       }
+       li{
+           font: 19px "Agency FB";
+       }
+       
+       #kk{
+           color:rgb(194, 46, 73);
+      
+       }
+       #magyk{ color:rgb(38, 70, 138);}
+       
+       #sam{ color:rgb(69, 61, 69);}
+   </style>
+   
+   
+   
+    </head>
+    <body>
+   <h1> Great Books for 11-13 years old</h1>
+   <h2>  Here are few books you may like</h2>
+   
+   
+    
+<ol>
+<li id="kk"> <strong>David Walliams The Beast of the Buckingham
+</strong><br>
+<img src = "https://www.natgeokids.com/wp-content/uploads/2019/11/Beasts-of-Buckingham-Palace-cover.png" width="200">
+<br>Blurb- London is in ruins, the people are hungry, and darkness has fallen across the land. Prince Alfred, a poorly and bookish child, has never left the safety of Buckingham Palace. But now there are strange goings on inside the palace walls – and Alfred’s life is about to change forever.<br>
+
+<br>In the dead of night something terrible stalks the corridors. When Alfred’s beloved mother the queen is dragged off to the Tower of London, the boy must summon all his courage to embark on an epic quest to save her… and the entire world.
+    
+</li><br>
+<li id="magyk" ><strong> Magyk (Septimus Heap,#1 ) 
+</strong><br>
+<br><img src= "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Magkycover2.jpg/220px-Magkycover2.jpg"width="200"><br>
+<br >Blurb-The 7th son of the 7th son, aptly named Septimus Heap, is stolen the night he is born by a midwife who pronounces him dead. That same night, the baby's father, Silas Heap, comes across a bundle in the snow containing a newborn girl with violet eyes. The Heaps take this helpless newborn into their home, name her Jenna, and raise her as their own. But who is this mysterious baby girl, and what really happened to their beloved son, Septimus?<br>
+
+<br>The first part of this enthralling new series leads readers on a fantastic journey filled with quirky characters, clever charms, potions and spells, and a yearning to uncover the mystery at the heart of this story...who is Septimus Heap?
+    
+    
+</li><br>
+  <li id="sam"><strong> Sam Wu is not afraid of ghosts</strong><br>
+  <br><img src="https://images-na.ssl-images-amazon.com/images/I/813BewOmgLL.jpg"width="200"><br>
+  <br>Brilliantly funny new series about the bravest scaredy-cat in the world
+
+
+Sam Wu is NOT a scaredy-cat (except he is).<br> 
+<br>When a trip to the Space Museum goes terrifyingly wrong, Sam begins a mission to prove to the school bully, and all of his friends, that he is a fearless space adventurer. A madcap story of ghost hunting, snakes and mischievous pet cats called Butterbutt.
+  
+  
+  </li>
+    
+    
+</ol>
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
 
 
 
