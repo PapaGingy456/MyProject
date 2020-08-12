@@ -16,18 +16,18 @@
        h1{
            font:bold 26px "Agency FB";
            position:relative;
-           left:89px;
-           font: bold 35px "Agency FB";
+           left:140px;
+           font: bold 98px "Agency FB";
        }
        h2{
            font:bold 23px "Agency FB";
        position:relative;
-           left:122px;
-           font: bold 27px "Agency FB";
+           left:134px;
+           font: bold 82px "Agency FB";
        
        }
        li{
-           font: 19px "Agency FB";
+           font: 54px "Agency FB";
        }
        
        #kk{
@@ -95,33 +95,6 @@ Sam Wu is NOT a scaredy-cat (except he is).<br>
 
     </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</body>
-<html>
-
-
 
 
 
